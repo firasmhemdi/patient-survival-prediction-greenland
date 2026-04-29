@@ -1,4 +1,5 @@
 Contexte
+
 Un hôpital de la province du Groenland tente d'améliorer ses conditions de soins en analysant l'historique de survie des patients. L'analyse de ses données n'a pas permis d'identifier les principaux facteurs responsables de ces taux de survie élevés.
 Contenu
 L'ensemble de données contient les dossiers médicaux recueillis dans un hôpital du Groenland. La colonne « Survived_1_year » est une variable cible dont les valeurs sont binaires (0 ou 1).
